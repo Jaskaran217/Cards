@@ -13,13 +13,7 @@ public class Card {
         private Value value;
 	private Suit suit;
         
-//        public static final String[] SUITS =
-//        {"Hearts", "Diamonds", "Spades", "Clubs"};
-//        
-//	public int getValue() {
-//		// TODO - implement Card.getValue
-//		throw new UnsupportedOperationException();
-//	}
+
 
     public Card(Value value, Suit suit) {
         this.value = value;
@@ -28,7 +22,7 @@ public class Card {
         
 	
 	public void setValue(Value value) {
-		// TODO - implement Card.setValue
+
 		this.value = value;
 	}
 
