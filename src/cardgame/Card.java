@@ -1,5 +1,6 @@
 package cardgame;
-
+//Author - Jaskaran Kaur
+//Date - 19th February, 2024
 public class Card {
 
 //	private int value;
