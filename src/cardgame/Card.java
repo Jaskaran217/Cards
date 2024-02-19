@@ -5,7 +5,7 @@ public class Card {
 
 //	private int value;
 //	private String suit;
-    
+//    ENUM FOR SUIT AND VALUE
     public enum Suit{Hearts, Diamonds, Clubs, Spades}
     public enum Value{Ace, Two, three, Four, Five, Six, Seven, Eight, Nine, Ten, Jack, Queen, King}
         
